@@ -115,5 +115,29 @@ a {
     gap: 60px;
 }
 
+/* QUOTE */
 
+.QUOTEMIDDLE {
+    background-color: #E5E7EB;
+    padding: 128px 128px 128px;
+}
 
+.quote {
+    color: #1f2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+}
+
+.quotename {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-weight: bold;
+    font-size: 28px;
+
+}
