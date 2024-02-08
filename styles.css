@@ -73,8 +73,47 @@ a {
     border-radius: 8px;
 }
 
-img {
+.mazdafoto {
     height: 265px;
     width: auto;
 }
+
+
+/* MIDDLE1 */
+
+.MIDDLE1 {
+    padding: 42px 128px 128px 128px;
+    background-color: f9faf8;
+}
+
+.information {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+.carblack, .carcity, .carviolet, .carold {
+    height: 250px;
+    width: 250px;
+    border: solid #3882f6 4px;
+    border-radius: 6px;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    
+}
+
+.textcard {
+    text-align: center;
+    gap: 60px;
+}
+
+
 
